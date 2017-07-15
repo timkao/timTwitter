@@ -10,8 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "chalk": "^2.0.1",
     "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "nunjucks": "^3.0.1",
+    "socket.io": "^2.0.3",
     "volleyball": "^1.4.1"
   }
 }
